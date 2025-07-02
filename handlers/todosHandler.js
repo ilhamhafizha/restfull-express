@@ -1,5 +1,4 @@
 // handlers/todosHandler.js
-
 let todos = require('../models/todosModel');
 
 const getAllTodos = (req, res) => {
